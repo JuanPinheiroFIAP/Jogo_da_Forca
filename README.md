@@ -1,6 +1,6 @@
 # Jogo da Forca
 
-Este é um projeto pessoal desenvolvido por Juan Pinheiro com o objetivo de estudar programação. Trata-se de uma versão simples do clássico jogo da Forca.
+Este é um projeto pessoal desenvolvido com o objetivo de estudar programação. Trata-se de uma versão simples do clássico jogo da Forca.
 
 ## Funcionalidades
 
